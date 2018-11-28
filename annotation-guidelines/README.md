@@ -1,7 +1,7 @@
 Annotation guidelines for temporal information extraction:
 
-1. Time expressions (Annotation_guidelines_time_expressions)
-2. Onset information identification and temporal links (Annotation_guidelines_onset_and_TLINK)
+- Time expressions (Annotation_guidelines_time_expressions) [1]
+- Onset information identification and temporal links (Annotation_guidelines_onset_and_TLINK)
 
 ---
 
