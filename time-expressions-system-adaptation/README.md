@@ -14,5 +14,6 @@ If you use this, please cite: Natalia Viani, Lucia Yin, Joyce Kam, Ayunni Alawi,
 ---
 
 [1] Angel X Chang and Christopher D Manning. 2012. Sutime: A library for recognizing and normalizing time expressions. In Lrec, volume 2012, pages 3735–3740.
+
 [2] Jannik Strotgen and Michael Gertz. 2010. Heideltime: High quality rule-based extraction and normalization of temporal expressions. In Proceedings of the 5th InternationalWorkshop on Semantic Evaluation, pages 321–324. Association for Computational Linguistics.
 
